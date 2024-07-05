@@ -3,6 +3,7 @@
 <p align="center">
 Estou estudando o básico novamente para desenferrujar.<br/>
 </p>
+
 ## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
